@@ -5,7 +5,7 @@
    pip install pandas
    pip install vaderSentiment
 - How to run (on terminal):
-   python get_recommendations.py "&lt;Prompt&rt;"
+   python get_recommendations.py "&lt;Prompt&gt;"
 - Results:
   Prompt is "I like thrilling movies"
   Sample output:
